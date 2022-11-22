@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack:///./src/pages/index.js"],"names":["Index"],"mappings":"2FAAA,wEAEe,SAASA,IACtB,OACE,oCACE","file":"component---src-pages-index-js-b0c3d6e1c5548c1c7023.js","sourcesContent":["import React from 'react';\n\nexport default function Index() {\n  return (\n    <>\n      <p>Hey There, index</p>\n    </>\n  );\n}\n"],"sourceRoot":""}
